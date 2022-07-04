@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.3e85198f.css",
+    "main.js": "/portfolio/static/js/main.c98d2434.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/wie_ben_ik.jpg": "/portfolio/static/media/wie_ben_ik.06f5f16c867bcc609b87.jpg",
+    "static/media/background_header.png": "/portfolio/static/media/background_header.6a0efb1e2c1166ef61bf.png",
+    "static/media/horizon.jpg": "/portfolio/static/media/horizon.e538507ffd11ee37da36.jpg",
+    "static/media/contact.jpg": "/portfolio/static/media/contact.9e5dcd60b5c82b93ece5.jpg",
+    "static/media/mylocalshop.jpg": "/portfolio/static/media/mylocalshop.f221e4bfdb76cd47835f.jpg",
+    "static/media/spotta.jpg": "/portfolio/static/media/spotta.b519a7337d3ce8920451.jpg",
+    "static/media/postnl.jpg": "/portfolio/static/media/postnl.a2cdd61e56e9992e6b35.jpg",
+    "static/media/meo.jpg": "/portfolio/static/media/meo.f424d65c61cebcab9d2f.jpg",
+    "static/media/repaircafe.jpg": "/portfolio/static/media/repaircafe.449efa41e0523376344d.jpg",
+    "static/media/witsenmarine.jpg": "/portfolio/static/media/witsenmarine.6c3e0857a94fd2f74a7d.jpg",
+    "static/media/blosse.jpg": "/portfolio/static/media/blosse.a56c9492de999e8036c9.jpg",
+    "static/media/zwembad.jpg": "/portfolio/static/media/zwembad.46a4e809977efef23232.jpg",
+    "static/media/CV.docx": "/portfolio/static/media/CV.55bfbfce6196238cd6e6.docx",
+    "static/media/bgo.jpg": "/portfolio/static/media/bgo.0c49605a66bea699cbb1.jpg",
+    "static/media/scch.jpg": "/portfolio/static/media/scch.7012ce330817adbb5818.jpg",
+    "static/media/diversity_day.jpg": "/portfolio/static/media/diversity_day.164c302278b4f7e1a16c.jpg",
+    "static/media/logo.svg": "/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/portfolio/index.html",
+    "main.3e85198f.css.map": "/portfolio/static/css/main.3e85198f.css.map",
+    "main.c98d2434.js.map": "/portfolio/static/js/main.c98d2434.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e85198f.css",
+    "static/js/main.c98d2434.js"
+  ]
+}
