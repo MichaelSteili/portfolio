@@ -11,7 +11,7 @@ function Contact() {
             <div className="contact__meta">
               <h1 className="hire__text">Neem mij in dienst!</h1>
               <p className="hire__text white">
-                Ik ben open voor werk. Neem contact met mij op via telefoon:
+                Ik ben opzoek naar een bedrijf waar ik mijzelf kan ontwikkelen. Neem contact met mij op via telefoon:
               </p>
               <p className="hire__text white">
                 <strong>0640280002</strong> of email{" "}

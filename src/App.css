@@ -151,19 +151,24 @@ button.about.btn.pointer:hover {
 @media only screen and (max-width: 768px) {
   .col__2 {
     max-width: 100%;
+    width: 100%;
   }
-}
-@media only screen and (max-width: 768px) {
   .col__3 {
     max-width: 50%;
+  }
+  h1.heading, h1.about__heading {
+    font-size: 48px !important;
+  }
+  h1.hire__text {
+    font-size: 36px !important;
+    margin-bottom: 10px !important;
   }
 }
 @media only screen and (max-width: 425px) {
   .col__3 {
     max-width: 100%;
+    width: 100%;
   }
-}
-@media only screen and (max-width: 425px) {
   span.copyright {
     font-size: 13px !important;
   }

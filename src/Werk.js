@@ -30,7 +30,7 @@ function Werk() {
                 <div className="project__meta absolute">
                     <h5 className="project__text">Stage (Applicatie Ontwikkelaar)</h5>
                     <h4 className="project__text">MEO</h4>
-                    <a href="https://wijzijnmeo.nl/" target="_blank" className="project__btn">Bekijk bedrijf</a>
+                    <a href="https://wijzijnmeo.nl/" target="_blank" rel="noreferrer" className="project__btn">Bekijk bedrijf</a>
                 </div>
               </div>
             </div>
@@ -46,7 +46,7 @@ function Werk() {
                 <div className="project__meta absolute">
                     <h5 className="project__text">Stage (Applicatie Ontwikkelaar)</h5>
                     <h4 className="project__text">MyLocalShop (Website offline)</h4>
-                    <a href="https://www.facebook.com/MylocalshopNL/" target="_blank" className="project__btn">Bekijk bedrijf</a>
+                    <a href="https://www.facebook.com/MylocalshopNL/" target="_blank" rel="noreferrer" className="project__btn">Bekijk bedrijf</a>
                 </div>
               </div>
             </div>
@@ -62,7 +62,7 @@ function Werk() {
                 <div className="project__meta absolute">
                     <h5 className="project__text">Stage (Medewerker Beheer ICT)</h5>
                     <h4 className="project__text">Horizon College Hoorn</h4>
-                    <a href="https://www.horizoncollege.nl/locaties/hoorn" target="_blank" className="project__btn">Bekijk bedrijf</a>
+                    <a href="https://www.horizoncollege.nl/locaties/hoorn" target="_blank" rel="noreferrer" className="project__btn">Bekijk bedrijf</a>
                 </div>
               </div>
             </div>
@@ -78,7 +78,7 @@ function Werk() {
                 <div className="project__meta absolute">
                     <h5 className="project__text">Stage (Medewerker Beheer ICT)</h5>
                     <h4 className="project__text">Blosse</h4>
-                    <a href="https://www.blosse.nl/" target="_blank" className="project__btn">Bekijk bedrijf</a>
+                    <a href="https://www.blosse.nl/" target="_blank" rel="noreferrer" className="project__btn">Bekijk bedrijf</a>
                 </div>
               </div>
             </div>
@@ -94,7 +94,7 @@ function Werk() {
                 <div className="project__meta absolute">
                     <h5 className="project__text">Werk (2015 - Heden)</h5>
                     <h4 className="project__text">PostNL</h4>
-                    <a href="https://www.postnl.nl/" target="_blank" className="project__btn">Bekijk bedrijf</a>
+                    <a href="https://www.postnl.nl/" target="_blank" rel="noreferrer" className="project__btn">Bekijk bedrijf</a>
                 </div>
               </div>
             </div>
@@ -110,7 +110,7 @@ function Werk() {
                 <div className="project__meta absolute">
                     <h5 className="project__text">Werk (2011 - 2017)</h5>
                     <h4 className="project__text">Spotta</h4>
-                    <a href="https://spotta.nl/" target="_blank" className="project__btn">Bekijk bedrijf</a>
+                    <a href="https://spotta.nl/" target="_blank" rel="noreferrer" className="project__btn">Bekijk bedrijf</a>
                 </div>
               </div>
             </div>
