@@ -1,11 +1,11 @@
 import React from "react";
 import "./Website.css";
-import Website1 from "./img/repaircafe.jpg";
+import Website1 from "./img/mylocalshop_mobile.jpg";
 import Website2 from "./img/bgo.jpg";
 import Website3 from "./img/witsenmarine.jpg";
 import Website4 from "./img/scch.jpg";
 import Website5 from "./img/zwembad.jpg";
-import Website6 from "./img/diversity_day.jpg";
+import Website6 from "./img/repaircafe.jpg";
 
 function Website() {
   return (
@@ -28,12 +28,12 @@ function Website() {
                 <div className="mask__effect"></div>
               </div>
               <div className="website__meta absolute">
-                <h5 className="project__text">Repair Café</h5>
+                <h5 className="project__text">MyLocalShop (Website offline)</h5>
                 <h4 className="project__text">
-                  Een website in meerdere talen.
+                  Van WordPress naar maatwerk website!
                 </h4>
-                <a href="https://www.repaircafe.org/en/" target="_blank" rel="noreferrer" className="website project__btn btn">
-                  Bekijk de website
+                <a href="https://www.facebook.com/MylocalshopNL" target="_blank" rel="noreferrer" className="website project__btn btn">
+                  Bekijk de Facebook pagina
                 </a>
               </div>
             </div>
@@ -128,11 +128,11 @@ function Website() {
                 <div className="mask__effect"></div>
               </div>
               <div className="website__meta absolute">
-                <h5 className="project__text">Diversity Day</h5>
+                <h5 className="project__text">Repair Café</h5>
                 <h4 className="project__text">
                   Een website in meerdere talen.
                 </h4>
-                <a href="https://diversityday.nl/en/" target="_blank" rel="noreferrer" className="website project__btn btn">
+                <a href="https://www.repaircafe.org/en/" target="_blank" rel="noreferrer" className="website project__btn btn">
                   Bekijk de website
                 </a>
               </div>
