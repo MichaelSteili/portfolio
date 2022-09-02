@@ -20,7 +20,7 @@ function About() {
             <h1 className="about__heading">Over mij</h1>
             <div className="about__meta">
               <p className="about__text p__color">
-                Mijn naam is Michael Steili en ik ben 23 jaar. Ik heb recent
+                Mijn naam is Michael Steili en ik ben 24 jaar. Ik heb recent
                 mijn opleiding applicatieontwikkelaar niveau 4 afgerond.
                 Momenteel werk ik parttime als postbode.
               </p>
