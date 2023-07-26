@@ -20,9 +20,7 @@ function About() {
             <h1 className="about__heading">Over mij</h1>
             <div className="about__meta">
               <p className="about__text p__color">
-                Mijn naam is Michael Steili en ik ben 24 jaar. Ik heb recent
-                mijn opleiding applicatieontwikkelaar niveau 4 afgerond.
-                Momenteel werk ik parttime als postbode.
+                Hallo, ik ben Michael Steili, 24 jaar oud. Ik ben werkzaam bij JK Webdesign, waar ik websites en applicaties bouw met Concrete CMS en Laravel. Hierbij heb ik nouw contact met klanten om hun wensen te begrijpen en de gewenste functies te implementeren. Ook onderhoud ik bestaande websites en voeg ik nieuwe modules toe. 
               </p>
               <div className="about__button d__flex align__items__center no__mobile">
                 <a href={CV} download="CV.docx" rel="noopener noreferrer" target="_blank">
