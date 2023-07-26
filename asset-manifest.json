@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.b15d09db.css",
-    "main.js": "/portfolio/static/js/main.63456776.js",
+    "main.js": "/portfolio/static/js/main.57336ba7.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/wie_ben_ik.jpg": "/portfolio/static/media/wie_ben_ik.06f5f16c867bcc609b87.jpg",
     "static/media/background_header.png": "/portfolio/static/media/background_header.6a0efb1e2c1166ef61bf.png",
     "static/media/horizon.jpg": "/portfolio/static/media/horizon.e538507ffd11ee37da36.jpg",
+    "static/media/jkw.png": "/portfolio/static/media/jkw.e717a75673915ecbc977.png",
     "static/media/contact.jpg": "/portfolio/static/media/contact.9e5dcd60b5c82b93ece5.jpg",
     "static/media/mylocalshop.jpg": "/portfolio/static/media/mylocalshop.f221e4bfdb76cd47835f.jpg",
-    "static/media/spotta.jpg": "/portfolio/static/media/spotta.b519a7337d3ce8920451.jpg",
     "static/media/postnl.jpg": "/portfolio/static/media/postnl.a2cdd61e56e9992e6b35.jpg",
     "static/media/meo.jpg": "/portfolio/static/media/meo.f424d65c61cebcab9d2f.jpg",
     "static/media/repaircafe.jpg": "/portfolio/static/media/repaircafe.449efa41e0523376344d.jpg",
@@ -21,11 +21,11 @@
     "static/media/scch.jpg": "/portfolio/static/media/scch.7012ce330817adbb5818.jpg",
     "index.html": "/portfolio/index.html",
     "main.b15d09db.css.map": "/portfolio/static/css/main.b15d09db.css.map",
-    "main.63456776.js.map": "/portfolio/static/js/main.63456776.js.map",
+    "main.57336ba7.js.map": "/portfolio/static/js/main.57336ba7.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b15d09db.css",
-    "static/js/main.63456776.js"
+    "static/js/main.57336ba7.js"
   ]
 }
