@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.ba90f37b.css",
-    "main.js": "/portfolio/static/js/main.f6661788.js",
+    "main.js": "/portfolio/static/js/main.f5d6508a.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/wie_ben_ik.jpg": "/portfolio/static/media/wie_ben_ik.06f5f16c867bcc609b87.jpg",
     "static/media/background_header.png": "/portfolio/static/media/background_header.6a0efb1e2c1166ef61bf.png",
@@ -21,16 +21,17 @@
     "static/media/witsenmarine.jpg": "/portfolio/static/media/witsenmarine.6c3e0857a94fd2f74a7d.jpg",
     "static/media/blosse.jpg": "/portfolio/static/media/blosse.a56c9492de999e8036c9.jpg",
     "static/media/zwembad.jpg": "/portfolio/static/media/zwembad.46a4e809977efef23232.jpg",
+    "static/media/mijndewve.png": "/portfolio/static/media/mijndewve.b84d83b8639f009998cb.png",
     "static/media/CV.docx": "/portfolio/static/media/CV.cbff0ca17941065a1aad.docx",
     "static/media/bgo.jpg": "/portfolio/static/media/bgo.0c49605a66bea699cbb1.jpg",
     "static/media/scch.jpg": "/portfolio/static/media/scch.7012ce330817adbb5818.jpg",
     "index.html": "/portfolio/index.html",
     "main.ba90f37b.css.map": "/portfolio/static/css/main.ba90f37b.css.map",
-    "main.f6661788.js.map": "/portfolio/static/js/main.f6661788.js.map",
+    "main.f5d6508a.js.map": "/portfolio/static/js/main.f5d6508a.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ba90f37b.css",
-    "static/js/main.f6661788.js"
+    "static/js/main.f5d6508a.js"
   ]
 }
