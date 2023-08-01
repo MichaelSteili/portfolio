@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.c885d407.css",
-    "main.js": "/portfolio/static/js/main.4063df57.js",
+    "main.js": "/portfolio/static/js/main.fd5fc175.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/wie_ben_ik.jpg": "/portfolio/static/media/wie_ben_ik.06f5f16c867bcc609b87.jpg",
     "static/media/background_header.png": "/portfolio/static/media/background_header.6a0efb1e2c1166ef61bf.png",
@@ -27,11 +27,11 @@
     "static/media/scch.jpg": "/portfolio/static/media/scch.7012ce330817adbb5818.jpg",
     "index.html": "/portfolio/index.html",
     "main.c885d407.css.map": "/portfolio/static/css/main.c885d407.css.map",
-    "main.4063df57.js.map": "/portfolio/static/js/main.4063df57.js.map",
+    "main.fd5fc175.js.map": "/portfolio/static/js/main.fd5fc175.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c885d407.css",
-    "static/js/main.4063df57.js"
+    "static/js/main.fd5fc175.js"
   ]
 }
