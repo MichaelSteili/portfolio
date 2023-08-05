@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.c1a64c75.css",
+    "main.css": "/portfolio/static/css/main.d85b4885.css",
     "main.js": "/portfolio/static/js/main.7f7e6644.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/wie_ben_ik.jpg": "/portfolio/static/media/wie_ben_ik.06f5f16c867bcc609b87.jpg",
@@ -29,12 +29,12 @@
     "index.html": "/portfolio/index.html",
     "static/media/grey-wave-bottom.svg": "/portfolio/static/media/grey-wave-bottom.0c0b08a6610b2faa3bd0e7ea7999c579.svg",
     "static/media/grey-wave-top.svg": "/portfolio/static/media/grey-wave-top.ec1640dd5203a01cad8c983cc69f4979.svg",
-    "main.c1a64c75.css.map": "/portfolio/static/css/main.c1a64c75.css.map",
+    "main.d85b4885.css.map": "/portfolio/static/css/main.d85b4885.css.map",
     "main.7f7e6644.js.map": "/portfolio/static/js/main.7f7e6644.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1a64c75.css",
+    "static/css/main.d85b4885.css",
     "static/js/main.7f7e6644.js"
   ]
 }
