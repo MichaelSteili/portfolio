@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.c1a64c75.css",
-    "main.js": "/portfolio/static/js/main.087a5ac9.js",
+    "main.js": "/portfolio/static/js/main.7f7e6644.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/wie_ben_ik.jpg": "/portfolio/static/media/wie_ben_ik.06f5f16c867bcc609b87.jpg",
     "static/media/background_header.png": "/portfolio/static/media/background_header.6a0efb1e2c1166ef61bf.png",
     "static/media/horizon.jpg": "/portfolio/static/media/horizon.e538507ffd11ee37da36.jpg",
+    "static/media/zorgeloosdakwerken.png": "/portfolio/static/media/zorgeloosdakwerken.d512be352dcf3bada708.png",
     "static/media/jkw.png": "/portfolio/static/media/jkw.e717a75673915ecbc977.png",
     "static/media/slijkerman.png": "/portfolio/static/media/slijkerman.25930d258f93d9ae521e.png",
     "static/media/dewve.png": "/portfolio/static/media/dewve.2d6e73a64b3215c81727.png",
@@ -29,11 +30,11 @@
     "static/media/grey-wave-bottom.svg": "/portfolio/static/media/grey-wave-bottom.0c0b08a6610b2faa3bd0e7ea7999c579.svg",
     "static/media/grey-wave-top.svg": "/portfolio/static/media/grey-wave-top.ec1640dd5203a01cad8c983cc69f4979.svg",
     "main.c1a64c75.css.map": "/portfolio/static/css/main.c1a64c75.css.map",
-    "main.087a5ac9.js.map": "/portfolio/static/js/main.087a5ac9.js.map",
+    "main.7f7e6644.js.map": "/portfolio/static/js/main.7f7e6644.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c1a64c75.css",
-    "static/js/main.087a5ac9.js"
+    "static/js/main.7f7e6644.js"
   ]
 }
